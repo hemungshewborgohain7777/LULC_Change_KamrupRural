@@ -39,7 +39,7 @@ The main objectives of this study are:
   - Landsat 8 (2020)
   - Landsat 9 (2025)
 - Source: USGS via **USGS Earth Explorer**  
-  🔗 earthexplorer.usgs.gov.com
+  🔗 [earthexplorer.usgs.gov.com](https://earthexplorer.usgs.gov/)
 
 ### Ancillary Data
 - Administrative boundary of Kamrup district  
