@@ -110,4 +110,45 @@ The main objectives of this study are:
 - Predictive LULC modeling using **CA-Markov or ANN models**
 
 ---
+## 🗺️ Maps Included in This Repository
 
+### 1️⃣ LULC Time-Series Analysis Map
+**File:** `LULC Kamrup Time-Series.jpg`
+
+- Shows LULC distribution for **2010, 2015, 2020, and 2025**
+- Land cover classes:
+  - Agriculture
+  - Dense Forest
+  - Grasslands
+  - Sandbars
+  - Settlement
+  - Waterbody
+- Includes **area statistics (km² and %)** and bar charts for each year
+
+---
+
+### 2️⃣ Change Detection Matrix
+**File:** `Change Detection Matrix.jpg`
+
+- Displays class-to-class transitions between **2010 and 2025**
+- Identifies dominant conversions such as:
+  - Agriculture → Settlement
+  - Dense Forest → Agriculture
+  - Grasslands → Settlement
+- Helps quantify land transformation patterns over time
+
+---
+
+### 3️⃣ Class-wise Change Maps
+These maps show **individual land cover changes** over the study period:
+
+- `Agriculture.jpg` – Agricultural land change
+- `Dense Forest.jpg` – Forest cover change
+- `Grasslands.jpg` – Grassland change
+- `Sandbars.jpg` – Riverine sandbar dynamics
+- `Settlement.jpg` – Urban / rural settlement expansion
+- `Waterbody.jpg` – Changes in water bodies
+
+Each map highlights **spatial gain and loss patterns** of the respective class.
+
+---
